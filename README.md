@@ -53,9 +53,3 @@ This link can be shared directly on **WhatsApp, Instagram, or Email** as a digit
 ```text
 Shaadi-Invite/
 ├── index.html
-├── assets/
-│   ├── wedding-video.mp4
-│   ├── wedding-card.pdf
-│   ├── wedding-music.mp3
-│   └── images/
-├── README.md
