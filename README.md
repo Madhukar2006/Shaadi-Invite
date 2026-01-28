@@ -34,3 +34,9 @@ Live Demo 👉 https://madhukar2006.github.io/Shaadi-Invite/
 
 ## 📂 Project Structure
 
+Shaadi-Invite/
+│
+├── index.html # Main HTML file
+├── style.css # Complete styling & animations
+├── script.js # JavaScript logic & interactions
+└── README.md # Project documentation
