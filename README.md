@@ -6,7 +6,7 @@ This project blends a **Naruto (Shinobi) theme** with a **modern Indian wedding 
 Live Demo 👉 https://madhukar2006.github.io/Shaadi-Invite/
 
 ---
-
+ 
 ## ✨ Features
 
 - 🎬 Animated loading screen with Shinobi theme
